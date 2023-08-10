@@ -26,3 +26,7 @@ just added pictues try 3
 ![flare1](./Picture6.png)
 
 ![flare2](./Picture7.png)
+
+
+![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/3069804c-e5d7-46ed-9907-a9c0356bcbad)
+
