@@ -56,6 +56,8 @@ The next largest is the case where an inactive flare was observed. Finally, the 
 >>### We conclude that most plumes occur when no flares are detected. 
 
 
+
+
 ## What should we do:
 1.	Urge oil and gas companies to monitor and correct emissions from infrastructure.
 2.	Urge government to regulate methane emissions.
