@@ -30,12 +30,14 @@ If we dive into the dataset, sort the emissions from largest to smallest and the
 ![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/8e21eb3f-a589-4041-9ef2-6942ab77157b)
 
 This is not a trivial amount of gas but it is quite far from 20%  We conclude: The fraction of observations at 80% of total emissions:  0.449 or 44%.
-Put another way, the largest half of the observed methane emissions account for 80% of the total emitted methane. If we move the threshold to 50%,  we see that the 15% largest emissions account for half of the methane released by oil and gas operations. While not an 80/20 split, the data suggests that a relatively small number of emissions are responsible for a significant fraction of the total methane emissions.
+Put another way, the largest half of the observed methane emissions account for 80% of the total emitted methane. If we move the threshold to 50%,  we see that the 15% largest emissions account for half of the methane released by oil and gas operations. 
+
+>>### We conclude that While not an 80/20 split, the data suggests that a relatively small number of emissions are responsible for a significant fraction of the total methane emissions.
 
 ## Do methane emissions vary significantly by type of equipment?
 It is worth noting that methane is emitted under normal operation of oil and gas equipment for many reasons such as the venting of tanks, flaring etc. as well as abnormal events such as a pipe rupture. 
 We examine this data in the chart below. We see that for the types of equipment considered there is not a significant variation by equipment type. Pipeline leaks do contribute significantly to the total methane emissions, but they are comparable in magnitude to the other types of equipment considered in this dataset. 
-We conclude that the sources of methane leaks are diverse without a single dominant contributor based on this dataset. 
+>>### We conclude that the sources of methane leaks are diverse without a single dominant contributor based on this dataset. 
 
 
 ![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/15163be9-4bf1-4d9c-86e3-9abf65002346)
@@ -51,11 +53,14 @@ If we simply count the number of plumes that correspond to each category (see fi
 ![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/82c8ab1f-5069-4539-a30e-4ec3b88333cc)
 
 The next largest is the case where an inactive flare was observed. Finally, the smallest was the case where active flares were detected. 
-We conclude that most plumes occur when no flares are detected. 
+>>### We conclude that most plumes occur when no flares are detected. 
+
+
 ## What should we do:
 1.	Urge oil and gas companies to monitor and correct emissions from infrastructure.
 2.	Urge government to regulate methane emissions.
-Fortunately, methane emission limits are being re-instated as part of the EPA’s overall plan to reduce emissions of methane [6].
+   
+>>### Fortunately, methane emission limits are being re-instated as part of the EPA’s overall plan to reduce emissions of methane [6].
 
 
 ### References:
