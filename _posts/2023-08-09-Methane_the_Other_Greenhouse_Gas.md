@@ -12,6 +12,7 @@ Of these emissions approximately 29% are from oil and gas operations with the re
 agriculture (enteric fermentation) and many other sources. 
 
 just added pictues
+
 ![flare](./Picture1.png)
 
 ![map](./Picture2.png)
