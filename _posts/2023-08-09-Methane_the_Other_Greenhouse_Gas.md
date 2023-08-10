@@ -13,7 +13,7 @@ agriculture (enteric fermentation) and many other sources.
 
 just added pictues try 3
 
-![flare](Picture1.png)
+![flare](/_posts/Picture1.png)
 
 ![map](./Picture2.png)
 
