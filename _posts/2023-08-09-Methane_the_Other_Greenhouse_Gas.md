@@ -11,9 +11,9 @@ warming is driven by methane from human actions [1].
 Of these emissions approximately 29% are from oil and gas operations with the remaining contributions coming from 
 agriculture (enteric fermentation) and many other sources. 
 
-just added pictues try 2
+just added pictues try 3
 
-![flare](_posts/Picture1.png)
+![flare](Picture1.png)
 
 ![map](./Picture2.png)
 
