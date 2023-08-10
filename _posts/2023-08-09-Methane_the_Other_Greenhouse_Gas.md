@@ -14,24 +14,29 @@ agriculture (enteric fermentation) and many other sources.
 just added pictues try 4
 
 
-![flare](/_posts/Picture1.png)
-
-![map](./Picture2.png)
-
-![distributions](./Picture3.png)
-
-![cumulative](./Picture4.png)
-
-![equipment](./Picture5.png)
-
-![flare1](./Picture6.png)
-
-![flare2](./Picture7.png)
 
 
-![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/3069804c-e5d7-46ed-9907-a9c0356bcbad)
+![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/ab429dd0-1f85-4474-beea-06ba9371a4b9)
 
-![map](https://github.com/tedvankessel/se4sci-blog/assets/18447321/044ce962-919e-4112-8f91-805dbbf59250)
+![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/17979285-d66a-41a8-95d1-01b20f3b43b8)
+
+![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/4f37adef-c581-4252-b741-ae487669af08)
+
+![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/8e21eb3f-a589-4041-9ef2-6942ab77157b)
+
+![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/15163be9-4bf1-4d9c-86e3-9abf65002346)
+
+![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/228703c6-a8f3-4ce8-8c4f-9bf2ca780e21)
+
+![image](https://github.com/tedvankessel/se4sci-blog/assets/18447321/82c8ab1f-5069-4539-a30e-4ec3b88333cc)
+
+
+
+
+
+
+
+
 
 
 
