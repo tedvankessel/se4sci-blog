@@ -34,3 +34,6 @@ just added pictues try 4
 ![map](https://github.com/tedvankessel/se4sci-blog/assets/18447321/044ce962-919e-4112-8f91-805dbbf59250)
 
 
+
+
+
